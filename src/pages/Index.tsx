@@ -238,7 +238,20 @@ const Index = () => {
           </p>
 
           <h3>2026 Safety Statistics at a Glance</h3>
-          
+          <p>
+  While I generally believe experiences matter more than numbers, here's what the data tells us.
+  For readers who prefer a continuously updated source, this
+  {' '}
+  <a
+    href="https://isitsafeinpuertovallarta.vercel.app/"
+    className="text-primary underline hover:no-underline"
+  >
+    updated Puerto Vallarta safety overview
+  </a>
+  {' '}
+  provides ongoing context.
+</p>
+
           <p>
             While I generally believe experiences matter more than numbers, here's what the data tells us:
           </p>
