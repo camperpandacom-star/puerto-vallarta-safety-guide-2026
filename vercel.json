@@ -3,7 +3,7 @@
     {
       "source": "/(.*)",
       "destination": "https://isitsafeinpuertovallarta.vercel.app/$1",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }
